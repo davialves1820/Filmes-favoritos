@@ -47,7 +47,7 @@ export function show_movie(search) {
     h4.textContent = `${title} (${release_date})`;
 
     const rating_img = document.createElement("img");
-    rating_img.src = "./img/star (1).png";
+    rating_img.src = "./img/star.png";
 
     const rating_span = document.createElement("span");
     rating_span.textContent = vote_average.toFixed(1);
