@@ -6,11 +6,11 @@ Um site simples que consome a API do TMDB para listar filmes populares, permite 
 
 ## 🚀 Funcionalidades
 
-- 🔍 Buscar filmes por nome.
-- 🌟 Visualizar os filmes populares do momento.
-- ❤️ Marcar e desmarcar filmes como favoritos (ícone de coração).
-- 📁 Salvar favoritos no armazenamento local do navegador.
-- ✅ Filtrar para exibir apenas os filmes favoritados.
+-  Buscar filmes por nome.
+-  Visualizar os filmes populares do momento.
+-  Marcar e desmarcar filmes como favoritos (ícone de coração).
+-  Salvar favoritos no armazenamento local do navegador.
+-  Filtrar para exibir apenas os filmes favoritados.
 
 ---
 
