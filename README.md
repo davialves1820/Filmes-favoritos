@@ -26,3 +26,9 @@ Um site simples que consome a API do TMDB para listar filmes populares, permite 
 ## 🔑 Configuração da API
 
 Este projeto utiliza a [TMDB API](https://www.themoviedb.org/documentation/api).  
+
+---
+
+## 🖼️ Pré-visualização
+
+![image](https://github.com/user-attachments/assets/4614f47f-4165-4fd2-87e2-8e3ad85f1033)
